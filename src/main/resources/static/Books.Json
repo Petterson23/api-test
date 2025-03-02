@@ -1,0 +1,47 @@
+[
+  {
+    "titulo": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "autor": "Robert C. Martin",
+    "area": "Desenvolvimento de Software",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/81AfZfJtZLL.jpg",
+    "editora": "Prentice Hall",
+    "ano_de_publicacao": 2008,
+    "isbn": "978-0136083238"
+  },
+  {
+    "titulo": "The Pragmatic Programmer: Your Journey To Mastery",
+    "autor": "Andrew Hunt, David Thomas",
+    "area": "Desenvolvimento de Software",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/91F3W8t3bRL.jpg",
+    "editora": "Addison-Wesley",
+    "ano_de_publicacao": 2019,
+    "isbn": "978-0135957059"
+  },
+  {
+    "titulo": "You Don't Know JS (book series)",
+    "autor": "Kyle Simpson",
+    "area": "JavaScript",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/81Woj-8gT3L.jpg",
+    "editora": "O'Reilly Media",
+    "ano_de_publicacao": 2014,
+    "isbn": "978-1491950296"
+  },
+  {
+    "titulo": "Introduction to the Theory of Computation",
+    "autor": "Michael Sipser",
+    "area": "Teoria da Computação",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/91-8Z6Q2AHL.jpg",
+    "editora": "Cengage Learning",
+    "ano_de_publicacao": 2012,
+    "isbn": "978-1133187790"
+  },
+  {
+    "titulo": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "area": "Padrões de Design",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/81C7B6+ahLL.jpg",
+    "editora": "Addison-Wesley",
+    "ano_de_publicacao": 1994,
+    "isbn": "978-0201633610"
+  }
+]
